@@ -1,3 +1,3 @@
-# 4640 week 9 lab
+# 4640 Week 9 Lab
 
-See lab instructions on D2L
+Completed by Thomas de Zwart and Charley Liao
