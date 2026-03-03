@@ -11,7 +11,7 @@ data "aws_ami" "ansible-nginx" {
 
   filter {
     name   = "name"
-    values = ["packer-ansible-nginx"]
+    values = ["web-nginx-aws"]
   }
 }
 
