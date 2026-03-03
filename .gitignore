@@ -1,0 +1,3 @@
+# root level .gitignore  with some... probably not best practices
+.terraform.lock.hcl
+key_data
